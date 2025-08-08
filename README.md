@@ -53,10 +53,14 @@ The Cloud API configuration page will appear, requesting to input your Tuya IoT 
 To setup a Tuya IoT Platform account and setup a project in it: 
 
 1)Go to https://auth.tuya.com/ and Sign Up for a new account.
-THERES A STEP MISSING, WHERE IT GETS YOU TO SCAN WITH THE APP
+
+THERES A STEP MISSING, WHERE IT GETS YOU TO SCAN WITH THE APP - i'M WORKING ON IT
+
 2) Log in to new account and select Cloud, then "Create Cloud Project"
+
 3) In the "Create Cloud Project" window, enter details. NOTE: Idustry should be "Smart Home" and "Developement method" should be Smart Home. This will allow integration with the Tuya App.
 <img width="745" height="516" alt="CreateCloudProject" src="https://github.com/user-attachments/assets/d85295c7-8fce-4f49-92a6-0d6ecf653ed6" />
+
 After clicking "Create" the "Configuration Wizard -> Authorise API services" window opens, with 5 pre-selected API services selected. Click on "Authorise"
 <img width="1023" height="720" alt="ConfigWizardAuthAPI" src="https://github.com/user-attachments/assets/8c78b8ec-1ba0-4b80-846c-92a9edaf43d4" />
 
