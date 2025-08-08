@@ -50,8 +50,8 @@ The Cloud API configuration page will appear, requesting to input your Tuya IoT 
 
 ![cloud_setup](https://github.com/rospogrigio/localtuya-homeassistant/blob/master/img/9-cloud_setup.png)
 
-To setup a Tuya IoT Platform account and setup a project in it, refer to the instructions for the official Tuya integration:
-https://www.home-assistant.io/integrations/tuya/
+To setup a Tuya IoT Platform account and setup a project in it: Go to https://auth.tuya.com/ and Sign Up for a new account.
+
 The Client ID and Secret can be found at `Cloud > Development > Overview` and the User ID can be found in the "Link Tuya App Account" subtab within the Cloud project:
 
 ![user_id.png](https://github.com/rospogrigio/localtuya-homeassistant/blob/master/img/8-user_id.png)
