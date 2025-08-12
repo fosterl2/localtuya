@@ -50,7 +50,19 @@ The Cloud API configuration page will appear, requesting to input your Tuya IoT 
 
 ![cloud_setup](https://github.com/rospogrigio/localtuya-homeassistant/blob/master/img/9-cloud_setup.png)
 
-To setup a Tuya IoT Platform account and setup a project in it: 
+After pressing the Submit button, the first setup is complete and the Integration will be added. 
+
+> **Note: it is not mandatory to input the Cloud API credentials: you can choose to tick the "Do not configure a Cloud API account" button, and the Integration will be added anyway.**
+
+After the Integration has been set up, devices can be added and configured pressing the Configure button in the Integrations page:
+
+![integration_configure](https://github.com/rospogrigio/localtuya-homeassistant/blob/master/img/10-integration_configure.png)
+
+
+
+# Set up Tuya Development Platform:
+
+To setup a Tuya IoT Development Platform account and setup a project in it: 
 
 1) Go to https://auth.tuya.com/ and Sign Up for a new account.
 
@@ -90,14 +102,6 @@ The User ID can be found in the project, Devices tab, Link App Account:
 <img width="1409" height="437" alt="Creation date" src="https://github.com/user-attachments/assets/6773731a-ccd4-4c23-a7f3-af2c50d66dc2" />
 
 
-
-After pressing the Submit button, the first setup is complete and the Integration will be added. 
-
-> **Note: it is not mandatory to input the Cloud API credentials: you can choose to tick the "Do not configure a Cloud API account" button, and the Integration will be added anyway.**
-
-After the Integration has been set up, devices can be added and configured pressing the Configure button in the Integrations page:
-
-![integration_configure](https://github.com/rospogrigio/localtuya-homeassistant/blob/master/img/10-integration_configure.png)
 
 
 # Integration Configuration menu
